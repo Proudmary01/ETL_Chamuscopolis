@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="68.183.26.129.prosg.theone"
+  DTS:DTSID="{9A08275F-8E0F-40BD-89A6-DAE36B1C01AB}"
+  DTS:CreationName="ADO.NET:MySql.Data.MySqlClient.MySqlConnection, MySql.Data, Version=6.8.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d"
+  p1:Salt="VICz+NdGj1k="
+  p1:IV="q9pTpp5AdFpDF6f7Vyebgg=="
+  p1:Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" xmlns:p1="www.microsoft.com/SqlServer/SSIS">kgK5IlJqiHWhsZz9WvE/NU+mBABjmRdqIab6vVCZDDVcE836+mj25nfRCBdMcBFXtBbBrdTs1VA7gM+TtmveQ9db8/eblHaFgJdlH5URg/QMrOhQNJK4HMqTjR8/dV52w+pfpq15RBY/9J/Wt7+yLr6JuMupBhPr5OV6497i+BENqCtnggGc3J27InNfwFQYMBisGgi5cQF6jhELqUyIktJHeacNNFK7T/P9FdiTHI8oj+iS2NF/sK3/AOkkvbuT2378+hV+4oiQsde0PLBAq6CKhbI7F3wDu00gMvsYE/ij48caMGsiV5TVuZU0yHgmp70mvJKpzfoEAY6bCARBTPOJoltdZV+h4KG4Jov7Ymxjf+x+dbVvQvWTIPpTczGbiTB1CRQ1KGUo20/gSzNCqqpaN7n7TIn7+ahWNj3DXiIuIyJtjkY+ooYsFDTjzIM/0XqhDsFX5noPlJ4Y5r039D6IabMdCM7NROvdEZCFMOP195Q2hJqGoocGhNOHU+K5040QbKFJoYPMHbU0IJNGO91FnY5OnSs65tKTstj1fq3FzP8jhUWlbeF6grnPi1LxJWumjMeH481YNqk2vg2EQD+qMkOdgmqKpeYLTx+/cCFXcYeiWTZBRIf8tmCWbbSfQB9R4RR1ga9RmgtmIdJxW3SGPMjzNnskxpEX6vf6S6/LxZRdFuIOqKboMMO4t8/mjLaXd47ZMTiM6v0vn/LvwI8nEOKZGts0Ws2ZcDzkJa5IP64YabaYNCiA3ch84PTL4tR19XJ5hHx+38YPYJfBHA==</DTS:ConnectionManager>
